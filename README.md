@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nshuti Elise
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Programming for data science using Python.
-- 💞️ I’m looking to collaborate on making content related to Python development especially for beginners
+- 👀 I’m a python programmer by hobby 
+- 🌱 I’m a long life learner who currently holds two university degrees one in electrical engineering and another in Information Technology.
+- 💞️ I also enjoy making content related to Python development especially for beginners
 - 📫 How to reach me  - Twitter @Nshuti_Rw 
 
 <!---
