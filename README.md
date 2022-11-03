@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nshuti Elise
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Programming for data science using Python.
+- 👀 I’m interested in programming for webs, games, data science and machine learning
+- 🌱 I’m currently trying to build 200 projects.
 - 💞️ I’m looking to collaborate on making content related to Python development especially for beginners
-- 📫 How to reach me  - Twitter @Nshuti_Rw 
+- 📫 How to reach me  - Twitter @Nshuti_Rw  - Linkedin: https://www.linkedin.com/in/nshuti-elis%C3%A9-73675b150/
 
 <!---
 nshuticode/nshuticode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
