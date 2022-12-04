@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Nshuti Elise
-- 👀 I’m interested in programming for webs, games, data science and machine learning
-- 🌱 I’m a long life learner.
-- 💞️ I’m looking to collaborate on making content related to Python development especially for beginners
-- 📫 How to reach me  - Twitter @Nshuti_Rw  - Linkedin: https://www.linkedin.com/in/nshuti-elis%C3%A9-73675b150/
-
+- 👋 Hi, I’m Nshuti Elise  (Tech With Elisha)
+- I am currently teaching introductory programming concepts on YouTube with a special emphasis on python.
+- Most of the code I post here is showed/created in my youtube videos on the channel Tech With Elisha
 <!---
 nshuticode/nshuticode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
